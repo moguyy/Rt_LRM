@@ -11,4 +11,5 @@ export default defineConfig({
       allow: [path.resolve(__dirname, '..')],
     },
   },
+  base: '/Rt_LRM/',
 })
