@@ -191,7 +191,7 @@ function App() {
             📄 Paper
           </a>
           <a
-            href="https://arxiv.org/pdf/2512.00412"
+            href="https://github.com/lrm-truthfulness/Rt-LRM"
             className="action-btn action-btn-primary"
             target="_blank"
             rel="noreferrer"
